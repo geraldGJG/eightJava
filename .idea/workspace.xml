@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48cd9756-9da2-4943-a07f-a842987f2127" name="Default" comment="" />
+    <list default="true" id="48cd9756-9da2-4943-a07f-a842987f2127" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toUpperCaseTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toUpperCaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/toUpperCaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="220">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/IntTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -113,7 +124,6 @@
         <option value="$PROJECT_DIR$/src/bean/Student.java" />
         <option value="$PROJECT_DIR$/src/test/MinAndMaxTest.java" />
         <option value="$PROJECT_DIR$/src/test/ReducerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/IntTest.java" />
         <option value="$PROJECT_DIR$/src/test/ReBuildTest.java" />
         <option value="$PROJECT_DIR$/src/test/charpter3/OneForA.java" />
         <option value="$PROJECT_DIR$/src/test/charpter3/OneForC.java" />
@@ -125,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/test/charpter3/Seven.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/test/FaceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/IntTest.java" />
       </list>
     </option>
   </component>
@@ -295,7 +306,7 @@
       <workItem from="1534477470185" duration="11872000" />
       <workItem from="1534728211892" duration="8136000" />
       <workItem from="1535531280048" duration="621000" />
-      <workItem from="1535592560651" duration="1287000" />
+      <workItem from="1535592560651" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件到本地git">
       <created>1535620620865</created>
@@ -304,14 +315,22 @@
       <option name="project" value="LOCAL" />
       <updated>1535620620865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改IntTest.java">
+      <created>1535622735182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535622735182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34880000" />
+    <option name="totallyTimeSpent" value="35853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -351,7 +370,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交文件到本地git" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交文件到本地git" />
+    <MESSAGE value="修改IntTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改IntTest.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/IntTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/charpter3/OneForA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -743,8 +756,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/toUpperCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="220">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IntTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>
