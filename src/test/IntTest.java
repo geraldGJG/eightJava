@@ -18,8 +18,8 @@ public class IntTest {
         integers.add(1);
         integers.add(2);
         integers.add(3);
-        integers.add(13);
-        integers.add(345);
+        integers.add(5);
+        integers.add(100);
 
         Stream<String> collected = Stream.of("a","b","hello").map(string -> {
             System.out.println("sssss");
